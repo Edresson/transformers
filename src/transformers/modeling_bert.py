@@ -55,6 +55,8 @@ BERT_PRETRAINED_MODEL_ARCHIVE_MAP = {
     "bert-base-finnish-cased-v1": "https://cdn.huggingface.co/TurkuNLP/bert-base-finnish-cased-v1/pytorch_model.bin",
     "bert-base-finnish-uncased-v1": "https://cdn.huggingface.co/TurkuNLP/bert-base-finnish-uncased-v1/pytorch_model.bin",
     "bert-base-dutch-cased": "https://cdn.huggingface.co/wietsedv/bert-base-dutch-cased/pytorch_model.bin",
+    "bert-base-portuguese-cased":"",
+    "bert-large-portuguese-cased":"",
 }
 
 

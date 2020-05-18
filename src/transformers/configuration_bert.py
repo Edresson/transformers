@@ -46,8 +46,8 @@ BERT_PRETRAINED_CONFIG_ARCHIVE_MAP = {
     "bert-base-finnish-cased-v1": "https://s3.amazonaws.com/models.huggingface.co/bert/TurkuNLP/bert-base-finnish-cased-v1/config.json",
     "bert-base-finnish-uncased-v1": "https://s3.amazonaws.com/models.huggingface.co/bert/TurkuNLP/bert-base-finnish-uncased-v1/config.json",
     "bert-base-dutch-cased": "https://s3.amazonaws.com/models.huggingface.co/bert/wietsedv/bert-base-dutch-cased/config.json",
-    "bert-base-portuguese-cased":"https://www.dropbox.com/s/kyvjubxc32skib8/config.json",
-    "bert-large-portuguese-cased":"https://www.dropbox.com/s/4b87jao4fkmmw7j/config.json",
+    "bert-base-portuguese-cased":"https://www.dropbox.com/s/kyvjubxc32skib8/config.json?dl=1",
+    "bert-large-portuguese-cased":"https://www.dropbox.com/s/4b87jao4fkmmw7j/config.json?dl=1",
 }
 
 

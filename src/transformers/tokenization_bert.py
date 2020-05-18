@@ -50,6 +50,8 @@ PRETRAINED_VOCAB_FILES_MAP = {
         "bert-base-finnish-cased-v1": "https://s3.amazonaws.com/models.huggingface.co/bert/TurkuNLP/bert-base-finnish-cased-v1/vocab.txt",
         "bert-base-finnish-uncased-v1": "https://s3.amazonaws.com/models.huggingface.co/bert/TurkuNLP/bert-base-finnish-uncased-v1/vocab.txt",
         "bert-base-dutch-cased": "https://s3.amazonaws.com/models.huggingface.co/bert/wietsedv/bert-base-dutch-cased/vocab.txt",
+        "bert-base-portuguese-cased":"https://neuralmind-ai.s3.us-east-2.amazonaws.com/nlp/bert-base-portuguese-cased/vocab.txt",
+        "bert-large-portuguese-cased":"https://neuralmind-ai.s3.us-east-2.amazonaws.com/nlp/bert-large-portuguese-cased/vocab.txt",
     }
 }
 
@@ -72,6 +74,8 @@ PRETRAINED_POSITIONAL_EMBEDDINGS_SIZES = {
     "bert-base-finnish-cased-v1": 512,
     "bert-base-finnish-uncased-v1": 512,
     "bert-base-dutch-cased": 512,
+    "bert-base-portuguese-cased": 512,
+    "bert-large-portuguese-cased": 512,
 }
 
 PRETRAINED_INIT_CONFIGURATION = {
@@ -93,6 +97,8 @@ PRETRAINED_INIT_CONFIGURATION = {
     "bert-base-finnish-cased-v1": {"do_lower_case": False},
     "bert-base-finnish-uncased-v1": {"do_lower_case": True},
     "bert-base-dutch-cased": {"do_lower_case": False},
+    "bert-base-portuguese-cased": {"do_lower_case": False},
+    "bert-large-portuguese-cased": {"do_lower_case": False},
 }
 
 
